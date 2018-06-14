@@ -90,7 +90,7 @@ Define the project by giving a Name and hit 'Create'.
 * Select the `From URL` tab.
 * Enter a name for the notebook.
 * Optionally, enter a description for the notebook.
-* Enter this Notebook URL: https://github.com/RK-Sharath/demand_forecasting_using_deep_learning/blob/master/notebook/LSTM_PATTERN.ipynb
+* Enter this Notebook URL: https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/notebook/LSTM_PATTERN.ipynb
 * Select the runtime of (4vCPU and 16GBRAM).
 * Click the `Create` button.
 
