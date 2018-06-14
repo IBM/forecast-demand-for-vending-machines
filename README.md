@@ -104,7 +104,7 @@ and its `Files` tab. From there you can click
 
 ![](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/doc/source/images/add_file.png)
 
-Note: The data files are in the `data` directory. `We need to insert sample_data.csv first followed by holdout_sample.csv as called out in the notebook.`
+Note: The data files are in the `data` directory. `We need to insert sample_data.csv first followed by holdout_sample.csv as called out in the notebook.` The data values are sorted & aggregated on a daily basis & the date attribute has been intentionally omitted from the data. 
 
 ## 5. Insert the DataFrame
 
