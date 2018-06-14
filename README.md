@@ -1,6 +1,6 @@
 # Demand forecasting using Deep Learning
 
-This pattern demonstrated how to forecast the demand for cash vending machines using Deep Learning. It is important for financial institutions to ensure there are no cashouts in the cash vending machines which can increase the revenue and enhance customer experience. The Long Short-Term Memory, or LSTM, network is a type of Recurrent Neural Network. Recurrent Neural Networks, or RNNs for short, are a special type of neural network designed for sequence problems. We will be creating a sequence prediction LSTM model which can predict the next value given an input sequence.
+This pattern demonstrated how to forecast the demand for cash vending machines using Deep Learning. It is important for financial institutions to ensure there are no cash-outs in the cash vending machines which can increase the revenue and enhance customer experience. Forecasting for cash vending machines can be demanding with various reasons for dip & spike in demand like weekday, weekend, location, month beginning & ending, holidays to name a few. The biggest challenge is to remember the pattern of withdrawals with respect to the reasons stated earlier. This is were Deep Learning comes into picture & we are referring to Recurrent Neural Network. The Long Short-Term Memory, or LSTM, network is a type of Recurrent Neural Network. Recurrent Neural Networks, or RNNs for short, are a special type of neural network designed for sequence problems. We will be creating a sequence prediction LSTM model which can predict the next value given an input sequence.
 
 But why Deep Learning for this? We will need to mimic human behaviour of cash withdrawals by remembering the recent past and use the learnings to pedict the future. We will create the Neural Network model with recurrent layers which will process the information through the looping architecture of the network and generate the corresponding output which will produce accurate forecast of cash demand which will inturn optimize cash replenishments of the cash vending machines. 
 
@@ -15,10 +15,11 @@ We will develop a deep learning model using Recurrent Neural Network which will 
 After completing this pattern, the developer will understand how to :
 
 * Create a Deep Learning model using LSTM.
-* Tuning the hyper parameters of the model.
+* Understand & tune the hyper parameters of the model.
 * Transfer learning using LSTM.
 * Generate new forecasts on new data using the same model & weights.
 * Cross Validation technique for evaluating accuracy.
+* GridSearch technique for fit & score using different parameters.
 
 # Architecture Diagram
 
@@ -179,7 +180,7 @@ We have also demonstrated another concept called `Transfer Learning` where we ha
 
 # Learn more
 
-* **Data Analytics Code Patterns**: Enjoyed this Code Pattern? Check out our other [Data Analytics Code Patterns](https://developer.ibm.com/code/technologies/data-science/)
+* **Artificial Intelligence Code Patterns**: Enjoyed this Code Pattern? Check out our other [Artificial Intelligence Code Patterns](https://developer.ibm.com/code/technologies/artificial-intelligence/)
 * **AI and Data Code Pattern Playlist**: Bookmark our [playlist](https://www.youtube.com/playlist?list=PLzUbsvIyrNfknNewObx5N7uGZ5FKH0Fde) with all of our Code Pattern videos
 * **Watson Studio**: Master the art of data science with IBM's [Watson Studio](https://www.ibm.com/cloud/watson-studio)
 * **Spark on IBM Cloud**: Need a Spark cluster? Create up to 30 Spark executors on IBM Cloud with our [Spark service](https://console.bluemix.net/catalog/services/apache-spark)
