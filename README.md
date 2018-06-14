@@ -175,7 +175,7 @@ We have also demonstrated another concept called `Transfer Learning` where we ha
 
 # Troubleshooting
 
-[See DEBUGGING.md.](DEBUGGING.md)
+[See DEBUGGING.md.](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/DEBUGGING.md)
 
 # Learn more
 
@@ -186,4 +186,6 @@ We have also demonstrated another concept called `Transfer Learning` where we ha
 
 # License
 
-[Apache 2.0](LICENSE)
+[Apache 2.0](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/LICENSE)
+
+> Citation : The dataset is created & owned by R K Sharath Kumar, IBM Software Labs.
