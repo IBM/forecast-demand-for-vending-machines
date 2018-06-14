@@ -46,14 +46,14 @@ After completing this pattern, the developer will understand how to :
 
 ## Featured technologies
 
+* [Deep Learning](https://www.ibm.com/cloud/deep-learning) : Design complex neural networks then experiment at scale to deploy optimized deep learning models, within Watson Studio.
 * [Data Science](https://developer.ibm.com/code/technologies/data-science/): Systems and scientific methods to analyze structured and unstructured data in order to extract knowledge and insights.
 * [Analytics](https://developer.ibm.com/code/technologies/analytics/): Analytics delivers the value of data for the enterprise.
 * [Python](https://www.python.org/): Python is a programming language that lets you work more quickly and integrate your systems more effectively.
-* [Jupyter Notebooks](http://jupyter.org/): An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
 # Watch the Video
 
-NA
+[![](http://img.youtube.com/vi/ToQiQdEGtzM/0.jpg)](https://youtu.be/ToQiQdEGtzM)
 
 # Steps
 
