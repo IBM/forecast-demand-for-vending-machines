@@ -67,6 +67,7 @@ described in detail below.
 1. [Insert the dataframe](#5-insert-the-dataframe)
 1. [Run the notebook](#6-run-the-notebook)
 1. [Analyze the results](#7-analyze-the-results)
+1. [Terminology](#8-terminology)
 
 ## 1. Create an account with IBM Cloud
 
