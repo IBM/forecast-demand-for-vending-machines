@@ -46,7 +46,7 @@ After completing this pattern, the developer will understand how to :
 
 ## Featured technologies
 
-* [Deep Learning](https://www.ibm.com/cloud/deep-learning) : Design complex neural networks then experiment at scale to deploy optimized deep learning models, within Watson Studio.
+* [Deep Learning](https://www.ibm.com/cloud/deep-learning): Design complex neural networks then experiment at scale to deploy optimized deep learning models, within Watson Studio.
 * [Data Science](https://developer.ibm.com/code/technologies/data-science/): Systems and scientific methods to analyze structured and unstructured data in order to extract knowledge and insights.
 * [Analytics](https://developer.ibm.com/code/technologies/analytics/): Analytics delivers the value of data for the enterprise.
 * [Python](https://www.python.org/): Python is a programming language that lets you work more quickly and integrate your systems more effectively.
@@ -77,11 +77,11 @@ Sign up for IBM [**Cloud**](https://console.bluemix.net/). By clicking on create
 
 Sign up for IBM's [Watson Studio](http://dataplatform.ibm.com/). 
 
-Click on New project and select Data Science as per below.
+Click on `New project` and select `Data Science` as per below.
 
 ![](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/doc/source/images/new_project.PNG)
 
-Define the project by giving a Name and hit 'Create'.
+Define the project by giving a Name and hit `Create`.
 
 ![](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/doc/source/images/define_project.PNG)
 
