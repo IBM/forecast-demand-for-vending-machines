@@ -40,7 +40,7 @@ After completing this pattern, the developer will understand how to :
 
 * [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): Analyze data using RStudio, Jupyter, and Python in a configured, collaborative environment that includes IBM value-adds, such as managed Spark.
 
-* [IBM Cloud Object Storage](https://console.ng.bluemix.net/catalog/services/object-storage/?cm_sp=dw-bluemix-_-code-_-devcenter): An IBM Cloud service that provides an unstructured cloud data store to build and deliver cost effective apps and services with high reliability and fast speed to market. This code pattern uses Object Storage (Swift API).
+* [IBM Cloud Object Storage](https://console.bluemix.net/catalog/services/cloud-object-storage): An IBM Cloud service that provides an unstructured cloud data store to build and deliver cost effective apps and services with high reliability and fast speed to market. This code pattern uses Cloud Object Storage.
 
 * [Jupyter Notebooks](http://jupyter.org/): An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
@@ -107,6 +107,7 @@ and its `Files` tab. From there you can click
 ![](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/doc/source/images/add_file.png)
 
 Note: The data files are in the `data` directory. `We need to insert sample_data.csv first followed by holdout_sample.csv as called out in the notebook.` The data values are sorted & aggregated on a daily basis & the date attribute has been intentionally omitted from the data. The data was generated using random numbers to be used for this pattern.
+> Citation : The dataset is created & owned by R K Sharath Kumar, IBM Software Labs. 
 
 ## 5. Insert the DataFrame
 
@@ -188,6 +189,6 @@ We have also demonstrated another concept called `Transfer Learning` where we ha
 
 # License
 
-[Apache 2.0](https://github.com/IBM/forecast-demand-for-vending-machines/blob/master/LICENSE)
+This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the Developer [Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
-> Citation : The dataset is created & owned by R K Sharath Kumar, IBM Software Labs. 
+Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN) for more details.
