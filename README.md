@@ -1,3 +1,7 @@
+# WARNING: This repository is no longer maintained :warning:
+
+> This repository will not be updated. The repository will be kept available in read-only mode.
+
 # Demand forecasting using Deep Learning
 
 This pattern demonstrates how to forecast the demand for cash vending machines using Deep Learning. It is important for financial institutions to ensure there are no cash-outs in the cash vending machines which can increase the revenue and enhance customer experience. Forecasting for cash vending machines can be demanding with various reasons for dip & spike in demand like weekday, weekend, location, month beginning & ending, holidays to name a few. The biggest challenge is to remember the pattern of withdrawals with respect to the reasons stated earlier. This is were Deep Learning comes into picture & we are referring to Recurrent Neural Network. The Long Short-Term Memory, or LSTM network, is a type of Recurrent Neural Network. Recurrent Neural Networks, or RNNs for short, are a special type of neural network designed for sequence problems. We will be creating a sequence prediction LSTM model which can predict the next value given an input sequence.
